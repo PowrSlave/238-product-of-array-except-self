@@ -1,10 +1,8 @@
 /**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
+ * @params
  */
 
-var twoSum = function(nums, target) {
+var leetFunc = function(nums, target) {
 
     let hash = {}
 
@@ -18,4 +16,4 @@ var twoSum = function(nums, target) {
     return []
 };
 
-module.exports = twoSum
+module.exports = leetFunc
