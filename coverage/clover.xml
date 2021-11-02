@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1635873104181" clover="3.2.0">
-  <project timestamp="1635873104181" name="All files">
+<coverage generated="1635874217744" clover="3.2.0">
+  <project timestamp="1635874217744" name="All files">
     <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="12" coveredelements="11" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
     <file name="twoSum.js" path="/Users/zach/htdocs/_leetcodes/two sum/twoSum.js">
       <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
@@ -12,7 +12,7 @@
       <line num="26" count="3" type="stmt"/>
       <line num="28" count="4" type="stmt"/>
       <line num="30" count="0" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

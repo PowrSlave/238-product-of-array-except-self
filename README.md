@@ -1,8 +1,8 @@
-# twosum JavaScript Solution
+# Leetcode Boilerplate
 
-Based on [Leetcode #1](https://leetcode.com/problems/two-sum)
+Use this boilerplate to run leetcode problems locally.
 
-Run this leetcode problem locally instead of in their web editor. 
+Based on [Leetcode #n](url)
 
 1.) Install [node.js](https://nodejs.org/en).
 
