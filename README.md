@@ -1,8 +1,8 @@
-# Leetcode #121 Best Time to Buy and Sell Stock
+# Leetcode #217 Best Time to Buy and Sell Stock
 
 Use this boilerplate to run leetcode problems locally.
 
-Based on [Leetcode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+Based on [Leetcode #217](https://leetcode.com/problems/contains-duplicate/)
 
 1.) Install [node.js](https://nodejs.org/en).
 
