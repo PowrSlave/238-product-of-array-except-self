@@ -1,4 +1,4 @@
-# Leetcode #217 Best Time to Buy and Sell Stock
+# Leetcode #217 Contains Duplicate
 
 Use this boilerplate to run leetcode problems locally.
 
