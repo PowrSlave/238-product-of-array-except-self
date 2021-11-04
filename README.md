@@ -1,8 +1,8 @@
-# Leetcode #217 Contains Duplicate
+# Leetcode #238 Product of Array Except Self
 
 Use this boilerplate to run leetcode problems locally.
 
-Based on [Leetcode #217](https://leetcode.com/problems/contains-duplicate/)
+Based on [Leetcode #217](https://leetcode.com/problems/product-of-array-except-self/)
 
 1.) Install [node.js](https://nodejs.org/en).
 
