@@ -2,7 +2,7 @@
 
 Use this boilerplate to run leetcode problems locally.
 
-Based on [Leetcode #217](https://leetcode.com/problems/product-of-array-except-self/)
+Based on [Leetcode #238](https://leetcode.com/problems/product-of-array-except-self/)
 
 1.) Install [node.js](https://nodejs.org/en).
 
